@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #2a2a2a;
+    height: 50px;
+    color: #f9f4fb;
+    width: 100%;
+   
+}
+.navbar > h2{
+    margin:inherit;
+    margin-left: 40px;
+    padding: 10px;
+    font-style: proxima nova bold;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #344cb9;
+    border-radius: 50%;
+    display: inline-block;
+}
